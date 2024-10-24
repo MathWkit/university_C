@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+  MyOwnMatrix.cpp
+C:\Users\Пользователь\source\repos\MyOwnMatrix\MyOwnMatrix\Matrix.cpp(6,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Пользователь\source\repos\MyOwnMatrix\MyOwnMatrix\Matrix.cpp(6,22): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  MyOwnMatrix.vcxproj -> C:\Users\Пользователь\source\repos\MyOwnMatrix\x64\Debug\MyOwnMatrix.exe
